@@ -1,0 +1,5 @@
+# Core: stdlib only. Optional web layer:
+fastapi>=0.110
+uvicorn>=0.29
+# Dev:
+pytest>=8.0
